@@ -1,0 +1,68 @@
+﻿Build started 11/15/2014 2:25:04 AM.
+     1>Project "C:\Users\Simon\Desktop\Homework 4 PlatformerSS\NYUCodebase\NYUCodebase.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\SDL2\include /IC:\SDL2_image\include /IC:\SDL2_mixer\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\enemy.h(23): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\particleemitter.h(32): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\particleemitter.h(33): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\particleemitter.h(34): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\particleemitter.h(44): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\particleemitter.h(75): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(76): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(81): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(86): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(91): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(358): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(364): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(373): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(375): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(378): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(396): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(405): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(409): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(425): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(435): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(447): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(463): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(478): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(503): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(506): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(507): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(509): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(510): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(511): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(518): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(525): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(532): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(543): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(544): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(556): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(617): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(627): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(635): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(645): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(655): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(707): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(722): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(745): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(757): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(787): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(797): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(807): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(817): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(826): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(828): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(859): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(867): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(874): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\appdelegate.h(882): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\simon\desktop\homework 4 platformerss\nyucodebase\main.cpp(41): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Simon\Desktop\Homework 4 PlatformerSS\Debug\NYUCodebase.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\SDL2_mixer\lib\x86 /LIBPATH:C:\SDL2\lib\x86 /LIBPATH:C:\SDL2_image\lib\x86 SDL2.lib SDL2main.lib SDL2_image.lib OpenGL32.lib SDL2_mixer.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Simon\Desktop\Homework 4 PlatformerSS\Debug\NYUCodebase.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Simon\Desktop\Homework 4 PlatformerSS\Debug\NYUCodebase.lib" /MACHINE:X86 Debug\main.obj
+         NYUCodebase.vcxproj -> C:\Users\Simon\Desktop\Homework 4 PlatformerSS\Debug\NYUCodebase.exe
+     1>Done Building Project "C:\Users\Simon\Desktop\Homework 4 PlatformerSS\NYUCodebase\NYUCodebase.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.89
